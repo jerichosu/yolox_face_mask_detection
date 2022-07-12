@@ -3,15 +3,16 @@
 ## 1. Notes
 
     This is a implementation  of "YOLOX: Exceeding YOLO Series in 2021" [https://arxiv.org/abs/2107.08430] on face mask detection
-    The repo is still under development
+    The repo is borrowed from https://github.com/zhangming8/yolox-pytorch with modifications
+    It is still under development
 
 ## 2. Environment
 
     pytorch>=1.7.0, python>=3.6, Linux/Windows, see more in 'requirements.txt'
     
     cd /path/to/your/work
-    git clone https://github.com/zhangming8/yolox-pytorch.git
-    cd yolox-pytorch
+    git clone https://github.com/jerichosu/yolox_face_mask_detection.git
+    cd yolox_face_mask_detection
     download pre-train weights in Model Zoo to /path/to/your/work/weights
 
 ## 3. Object Detection
