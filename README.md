@@ -1,4 +1,4 @@
-## A pytorch easy re-implement of "YOLOX: Exceeding YOLO Series in 2021"
+## YOLOX for face mask detection 
 
 ## 1. Notes
 
@@ -135,7 +135,7 @@ implement [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX). You can reprod
     DOING
 
 ## 5. Acknowledgement
-
+    
     https://github.com/Megvii-BaseDetection/YOLOX
     https://github.com/PaddlePaddle/PaddleDetection
     https://github.com/open-mmlab/mmdetection
