@@ -2,12 +2,12 @@
 
 ## 1. Notes
 
-    This is a pytorch easy re-implement of "YOLOX: Exceeding YOLO Series in 2021" [https://arxiv.org/abs/2107.08430]
+    This is a implementation  of "YOLOX: Exceeding YOLO Series in 2021" [https://arxiv.org/abs/2107.08430] on face mask detection
     The repo is still under development
 
 ## 2. Environment
 
-    pytorch>=1.7.0, python>=3.6, Ubuntu/Windows, see more in 'requirements.txt'
+    pytorch>=1.7.0, python>=3.6, Linux/Windows, see more in 'requirements.txt'
     
     cd /path/to/your/work
     git clone https://github.com/zhangming8/yolox-pytorch.git
@@ -112,27 +112,6 @@ implement [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX). You can reprod
     
     5. run train.sh, evaluate.sh, predict.sh (are the same as COCO)
 
-## 4. Multi/One-class Multi-object Tracking(MOT)
-
-#### one-class/single-class MOT Dataset
-
-    DOING
-
-#### Multi-class MOT Dataset
-
-    DOING
-
-#### Train
-
-    DOING
-
-#### Evaluate
-
-    DOING
-
-#### Predict/Inference/Demo
-
-    DOING
 
 ## 5. Acknowledgement
     
